@@ -8,7 +8,7 @@
     object-fit: cover;
     object-position: 0 20%;
     width: 100%;
-    height: 50vh;
+    height: 60vh;
 
 }
 
@@ -38,4 +38,12 @@
   .font-roxo{
       color: rgb(75, 38, 94);
   }
+  
+ .pt-3{
+    width:50vw;
+    /* text-align: justify; */
+    font-size: 12px;
+    
+    
+ }
   
